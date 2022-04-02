@@ -1,21 +1,22 @@
 ![](https://www.seoclerk.com/pics/000/752/001/3ab84585bdc7c8b822c98d3011fe25f1.png)
 
-<h1 align="center"> আসসালামু আলাইকুম, I'm Md: Najmul Hasan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> আসসালামু আলাইকুম, I'm Imran Hasan Bipul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Software and Web Developer from Bangladesh ❤</h3>
+<h3 align="center">I'm a Wordpress And PHP Developer. ❤</h3>
   
 A Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:
 
-![age](https://img.shields.io/badge/age-21-blue)
+![age](https://img.shields.io/badge/age-24-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Dhaka-3c9)
+![living](https://img.shields.io/badge/living-Mymensing-3c9)
 ![followers](https://img.shields.io/github/followers/Najmul-Hasan-Sobuj.svg)
 
 <img width="25%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
-- 🌱 I’m currently learning Laravel, js and Design
+- 🏆 Now I am a Wordpress Developer.
+- 🌱 I’m currently learning PHP & Laravel.
 - 👯 I’m looking to collaborate on Laravel projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Facebook](https://www.facebook.com/mdnajmulhasan.sobuj)
+- 📫 How to reach me: You may follow me on [Facebook](https://www.facebook.com/imranhasanbipul0/)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None !
   <br />
