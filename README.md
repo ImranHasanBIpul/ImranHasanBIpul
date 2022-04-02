@@ -1,7 +1,7 @@
 ![](https://www.seoclerk.com/pics/000/752/001/3ab84585bdc7c8b822c98d3011fe25f1.png)
 
 <h1 align="center"> আসসালামু আলাইকুম ): Welcome To My GitHub </h1>
- <h1 align="center"> I'm Imran Hasan Bipul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+ <h1 align="center"> I'm Imran Hasan Bipul 😊 ! </h1>
 
 <h3 align="center">I'm a Wordpress And PHP Developer. ❤</h3>
   
@@ -14,7 +14,7 @@ A Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about Full-
 
 <img width="25%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
-- 🏆 Now I am a Wordpress Developer.
+- 👨🏽‍💻 Now I am a Wordpress Developer.
 - 🌱 I’m currently learning PHP & Laravel.
 - 👯 I’m looking to collaborate on Laravel projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Facebook](https://www.facebook.com/imranhasanbipul0/)
@@ -54,9 +54,9 @@ A Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about Full-
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=ImranHasanBIpul&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Hasan-Sobuj&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ImranHasanBIpul&theme=dark" width="45%" >
 
 <br>
 
